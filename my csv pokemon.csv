@@ -1,0 +1,33 @@
+pokemon_id,pokemon_name,base_attack,base_defense,base_stamina,type,rarity,charged_moves,fast_moves,candy_required,max_cp,attack_probability
+1,Bulbasaur,118,111,128,"['Grass', 'Poison']",Standard,"['Sludge Bomb', 'Seed Bomb', 'Power Whip']","['Vine Whip', 'Tackle']",,1275,0.1
+2,Charmander,116,93,118,['Fire'],Standard,"['Flame Charge', 'Flame Burst', 'Flamethrower']","['Ember', 'Scratch']",,1121,0.1
+3,Charmeleon,158,126,151,['Fire'],Standard,"['Fire Punch', 'Flame Burst', 'Flamethrower']","['Ember', 'Fire Fang']",25,1891,0.1
+4,Charizard,223,173,186,"['Fire', 'Flying']",Standard,"['Fire Blast', 'Dragon Claw', 'Overheat']","['Fire Spin', 'Air Slash']",100,3305,0.2
+5,Squirtle,94,121,127,['Water'],Standard,"['Aqua Jet', 'Aqua Tail', 'Water Pulse']","['Bubble', 'Tackle']",,1082,0.1
+6,Blastoise,171,207,188,['Water'],Standard,"['Flash Cannon', 'Ice Beam', 'Hydro Pump', 'Skull Bash']","['Water Gun', 'Bite']",100,2821,0.2
+7,Caterpie,55,55,128,['Bug'],Standard,['Struggle'],"['Bug Bite', 'Tackle']",,500,0.1
+8,Butterfree,167,137,155,"['Bug', 'Flying']",Standard,"['Bug Buzz', 'Psychic', 'Signal Beam']","['Struggle Bug', 'Confusion']",50,2090,0.1
+9,Spearow,112,60,120,"['Normal', 'Flying']",Standard,"['Aerial Ace', 'Drill Peck', 'Sky Attack']","['Peck', 'Quick Attack']",,913,0.1
+10,Ekans,110,97,111,['Poison'],Standard,"['Wrap', 'Poison Fang', 'Sludge Bomb']","['Poison Sting', 'Acid']",,1061,0.2
+11,Pikachu,112,96,111,['Electric'],Standard,"['Discharge', 'Thunderbolt', 'Wild Charge']","['Thunder Shock', 'Quick Attack']",25,1073,0.1
+12,Raichu,201,154,155,"['Electric', 'Psychic']",Standard,"['Psychic', 'Thunder Punch', 'Wild Charge', 'Grass Knot', 'Trailblaze']","['Volt Switch', 'Spark', 'Thunder Shock']",50,2616,0.1
+13,Ninetales,170,193,177,"['Ice', 'Fairy']",Standard,"['Dazzling Gleam', 'Ice Beam', 'Blizzard', 'Psyshock', 'Weather Ball Ice']","['Feint Attack', 'Powder Snow', 'Charm']",50,2641,0.1
+14,Jigglypuff,80,41,251,"['Normal', 'Fairy']",Standard,"['Disarming Voice', 'Gyro Ball', 'Dazzling Gleam', 'Swift']","['Pound', 'Feint Attack']",25,828,0.1
+15,Meowth,99,78,120,['Dark'],Standard,"['Night Slash', 'Dark Pulse', 'Foul Play', 'Trailblaze']","['Scratch', 'Bite']",,912,0.1
+16,Psyduck,122,95,137,['Water'],Standard,"['Psybeam', 'Aqua Tail', 'Cross Chop']","['Water Gun', 'Zen Headbutt']",,1265,0.1
+17,Bellsprout,139,61,137,"['Grass', 'Poison']",Standard,"['Power Whip', 'Sludge Bomb', 'Wrap']","['Vine Whip', 'Acid']",,1182,0.1
+18,Tentacool,97,149,120,"['Water', 'Poison']",Standard,"['Bubble Beam', 'Water Pulse', 'Wrap']","['Bubble', 'Poison Sting']",,1190,0.1
+19,Koffing,119,141,120,['Poison'],Standard,"['Sludge', 'Sludge Bomb', 'Dark Pulse']","['Tackle', 'Infestation']",,1389,0.1
+20,Weezing,174,197,163,"['Poison', 'Fairy']",Standard,"['Sludge', 'Hyper Beam', 'Play Rough', 'Hyper Beam', 'Overheat', 'Brutal Swing']","['Tackle', 'Fairy Wind']",50,2623,0.1
+21,Horsea,129,103,102,['Water'],Standard,"['Bubble Beam', 'Dragon Pulse', 'Flash Cannon']","['Water Gun', 'Bubble']",,1208,0.1
+22,Seadra,187,156,146,['Water'],Standard,"['Aurora Beam', 'Dragon Pulse', 'Hydro Pump']","['Water Gun', 'Dragon Breath']",25,2394,0.1
+23,Staryu,137,112,102,['Water'],Standard,"['Swift', 'Bubble Beam', 'Power Gem']","['Tackle', 'Water Gun']",,1323,0.1
+24,Starmie,210,184,155,"['Water', 'Psychic']",Standard,"['Hydro Pump', 'Power Gem', 'Psychic', 'Thunder', 'Ice Beam', 'Psybeam']","['Hidden Power', 'Water Gun']",50,2957,0.1
+25,Ditto,91,91,134,['Normal'],Standard,['Struggle'],['Transform'],,951,0.1
+26,Snorlax,190,169,330,['Normal'],Standard,"['Heavy Slam', 'Hyper Beam', 'Earthquake', 'Outrage', 'Skull Bash', 'Body Slam', 'Super Power']","['Zen Headbutt', 'Lick']",50,3690,0.1
+27,Mewtwo,182,278,214,['Psychic'],Legendary,"['Rock Slide', 'Dynamic Punch', 'Earthquake', 'Futuresight']","['Confusion', 'Iron Tail']",,3646,0.1
+28,Mew,210,210,225,['Psychic'],Mythic,"['Psychic', 'Ancient Power', 'Dragon Claw', 'Psyshock', 'Ice Beam', 'Blizzard', 'Hyper Beam', 'Solar Beam', 'Thunderbolt', 'Thunder', 'Flame Charge', 'Low Sweep', 'Overheat', 'Focus Blast', 'Energy Ball', 'Stone Edge', 'Gyro Ball', 'Bulldoze', 'Rock Slide', 'Grass Knot', 'Flash Cannon', 'Wild Charge', 'Dark Pulse', 'Dazzling Gleam', 'Surf']","['Pound', 'Steel Wing', 'Charge Beam', 'Shadow Claw', 'Volt Switch', 'Struggle Bug', 'Frost Breath', 'Dragon Tail', 'Infestation', 'Poison Jab', 'Rock Smash', 'Snarl', 'Cut', 'Waterfall']",,3735,0
+29,Chikorita,92,122,128,['Grass'],Standard,"['Energy Ball', 'Grass Knot', 'Body Slam']","['Vine Whip', 'Tackle', 'Magical Leaf']",,1070,0.1
+30,Cyndaquil,116,93,118,['Fire'],Standard,"['Flame Charge', 'Swift', 'Flamethrower']","['Ember', 'Tackle']",,1121,0.1
+31,Totodile,117,109,137,['Water'],Standard,"['Crunch', 'Aqua Jet', 'Water Pulse']","['Water Gun', 'Scratch']",,1294,0.1
+32,Snubbull,137,85,155,['Fairy'],Standard,"['Crunch', 'Dazzling Gleam', 'Brick Break']","['Tackle', 'Bite']",,1416,0.2
